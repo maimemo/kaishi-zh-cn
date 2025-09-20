@@ -38,15 +38,15 @@
 
 ### 目录
 
-- [如何获取本牌组？](https://github.com/maimemo/kaishi-zh-cn#如何获取本牌组？)
-- [如何使用本牌组？](https://github.com/maimemo/kaishi-zh-cn#如何使用本牌组？)
+- [如何获取本牌组？](https://github.com/maimemo/kaishi-zh-cn#如何获取本牌组)
+- [如何使用本牌组？](https://github.com/maimemo/kaishi-zh-cn#如何使用本牌组)
 - [其他相关牌组](https://github.com/maimemo/kaishi-zh-cn#其他相关牌组)
-- [牌组有哪些自定义选项？](https://github.com/maimemo/kaishi-zh-cn#牌组有哪些自定义选项？)
-- [我不喜欢这些图片！](https://github.com/maimemo/kaishi-zh-cn#我不喜欢这些图片！)
-- [如何将 Kaishi 导入到现有牌组中？](https://github.com/maimemo/kaishi-zh-cn#如何将-kaishi-导入到现有牌组中？)
+- [牌组有哪些自定义选项？](https://github.com/maimemo/kaishi-zh-cn#牌组有哪些自定义选项)
+- [我不喜欢这些图片！](https://github.com/maimemo/kaishi-zh-cn#我不喜欢这些图片)
+- [如何将 Kaishi 导入到现有牌组中？](https://github.com/maimemo/kaishi-zh-cn#如何将-kaishi-导入到现有牌组中)
 - [牌组的诞生故事](https://github.com/maimemo/kaishi-zh-cn#牌组的诞生故事)
 - [牌组的多语言翻译](https://github.com/maimemo/kaishi-zh-cn#牌组的多语言翻译)
-- [学完这个牌组后该做什么？](https://github.com/maimemo/kaishi-zh-cn#学完这个牌组后该做什么？)
+- [学完这个牌组后该做什么？](https://github.com/maimemo/kaishi-zh-cn#学完这个牌组后该做什么)
 - [致谢名单](https://github.com/maimemo/kaishi-zh-cn#致谢名单)
 
 ## 如何获取本牌组？
