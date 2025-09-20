@@ -2,7 +2,7 @@
 
 欢迎使用 Kaishi 1.5k 中文版！这是一个基于日语基础词汇牌组 [Kaishi 1.5k](https://github.com/donkuri/Kaishi) 的汉化项目，旨在为国内的日语学习者提供一个更加便捷的学习资源。
 
-下载地址：https://github.com/maimemo/kaishi-zh-cn/releases，文件名：Kaishi 1.5k zh-CN.apkg
+下载地址：<https://github.com/maimemo/kaishi-zh-cn/releases>，文件名：Kaishi 1.5k zh-CN.apkg
 
 ## 主要特点
 
